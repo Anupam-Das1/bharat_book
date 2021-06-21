@@ -21,7 +21,7 @@ if user like or comment on someones page it will look like this
 People can see other user's profile if they wish they can follow/unfollow others
 ![6_others_profile](https://user-images.githubusercontent.com/79990459/122717120-ca848600-d288-11eb-94c5-06bfbd3823a5.png)
 
-On my current profile my posts, my followers and my followings will be shown
+Users can see following uesrs post by clicking my following post
 ![7_my_following_post](https://user-images.githubusercontent.com/79990459/122717134-cfe1d080-d288-11eb-84f0-31196bfeb46e.png)
 
 Users can create their post also
